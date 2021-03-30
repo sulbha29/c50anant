@@ -1,0 +1,12 @@
+h1{
+    font-size: 36;
+
+}
+.divClass{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.header{
+    background-color:blueviolet
+}
